@@ -47,10 +47,10 @@ Finally, historians and other humanities scholars probably will need to reflect 
 
 **Tables**
 
-![Alt Table 1 Testing Metrics](/Testing_Metrics.png)
+<img title='Table 1 Testing Metrics' src = /Testing_Metrics.png>
 
 
-![Alt Table 2 1963 Data Metrics](/1963_Data_Metrics.png)
+<img title='Table 2 1963 Data Metrics' src = /1963_Data_Metrics.png>
 
 
-![Alt Table 3 1990 Data Metrics](/1990_Data_Metrics.png)
+<img title='Table 3 1990 Data Metrics' src = /1990_Data_Metrics.png>
